@@ -10,9 +10,9 @@
 
 3. Objectives:
 
-1. Classify reviews as positive (“thumbs up”) or negative (“thumbs down”).
-  
-2. Create a structured, labeled dataset for further analysis.
-  
-3. Provide insights to help developers identify strengths and areas for improvement.
+    i. Classify reviews as positive (“thumbs up”) or negative (“thumbs down”).
+      
+    ii. Create a structured, labeled dataset for further analysis.
+      
+    iii. Provide insights to help developers identify strengths and areas for improvement.
 
