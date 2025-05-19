@@ -20,3 +20,7 @@
 
 ![SA Processes](sa-phasmophobia-processes.png)
 
+5. Data Scraping
+
+   The coding was acquired from [Woctezuma](https://github.com/woctezuma/download-steam-reviews)
+
