@@ -16,3 +16,7 @@
       
     iii. Provide insights to help developers identify strengths and areas for improvement.
 
+4. Processes
+
+![SA Processes](sa-phasmophobia-processes.png)
+
